@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a4e38431-a6f5-45cf-a889-6a6fe9d01861" name="niboon.com" url="http://ftp.niboon.com">
+        <fileTransfer host="ftp.niboon.com" port="21" rootFolder="/starlinks">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

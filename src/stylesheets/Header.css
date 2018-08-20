@@ -1,0 +1,94 @@
+.header {
+    background-color: #f5f5f5;
+    height: 42px;
+    width: 100%;
+    padding: 10px 0;
+    color: #838383;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.header-left {
+    height: 42px;
+    width: 20vw;
+    text-align: left;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.btn {
+    padding: 10px;
+    margin: 0 5px 0 5px;
+    background-color: #f5f5f5;
+    border: 1px solid #dbdbdb;
+    border-radius: 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.btn.is-hovered, .btn:hover {
+    background-color: #e7e7e7;
+    border-color: #afafaf;
+    color: #363636;
+    fill: #656565;
+}
+
+.logo {
+    height: 20px;
+    width: 20px;
+    fill: #838383;
+}
+
+.header-middle {
+    height: 42px;
+    width: 45vw;
+    text-align: center;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.header-right {
+    height: 42px;
+    width: 25vw;
+    text-align: right;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.login-pair {
+    padding: 10px 15px;
+    overflow: hidden;
+}
+
+.login-logo {
+    height: 1em;
+    width: 1em;
+    margin: 0 10px 0 0;
+    fill: #696969;
+}
+
+.login-label {
+    height: 40px;
+    width: 10vw;
+    fill: #696969;
+}
+
+.login-btn.is-hovered, .login-btn:hover {
+    border-color: #afafaf;
+    color: #363636;
+}
+
+
+.search-box {
+    height: 40px;
+    width: 25vw;
+    padding: 0 10px;
+    border: 1px solid #dbdbdb;
+    border-radius: 5%;
+    vertical-align: top;
+}

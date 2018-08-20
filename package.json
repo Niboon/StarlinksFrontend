@@ -1,0 +1,26 @@
+{
+  "name": "starlinks",
+  "version": "0.1.0",
+  "homepage": "http://niboon.com/starlinks",
+  "private": true,
+  "dependencies": {
+    "apollo-boost": "^0.1.13",
+    "graphql": "^0.13.2",
+    "graphql-tag": "latest",
+    "npm": "^6.4.0",
+    "prop-types": "latest",
+    "react": "^16.4.2",
+    "react-apollo": "^2.1.11",
+    "react-dom": "^16.4.2",
+    "react-icons": "^3.0.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "stop": "taskkill -F -IM node.exe",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
